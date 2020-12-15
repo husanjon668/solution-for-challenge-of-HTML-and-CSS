@@ -1,0 +1,143 @@
+body {
+  height: 1000px;
+  font-family: 'Spartan', sans-serif;
+}
+h1 {
+  color: hsl(300, 43%, 22%);
+}
+h2 {
+  color: hsl(0, 0%, 100%);
+  line-height: 0px;
+}
+h3 {
+  color: hsl(333, 80%, 67%);
+}
+p {
+  color: hsl(300, 24%, 96%);
+}
+td {
+  color: hsl(300, 43%, 22%);
+}
+
+.stars- {
+  color: hsl(300, 43%, 22%);
+  background-color: hsl(300, 24%, 96%);
+  left: 850px;
+  display: inline-block;
+  position: absolute;
+  line-height: 2.9;
+  margin: auto;
+  padding: 0px 60px 0px 30px;
+  border-radius: 10px;
+}
+
+.stars-2 {
+  color: hsl(300, 43%, 22%);
+  background-color: hsl(300, 24%, 96%);
+  left: 907px;
+  top: 88px;
+  display: inline-block;
+  position: absolute;
+  line-height: 2.9;
+  margin: auto;
+  padding: 0px 45px 0px 25px;
+  border-radius: 10px;
+}
+
+.stars-3 {
+  color: hsl(300, 43%, 22%);
+  background-color: hsl(300, 24%, 96%);
+  left: 950px;
+  top: 150px;
+  display: inline-block;
+  position: absolute;
+  line-height: 2.9;
+  margin: auto;
+  padding: 0px 70px 0px 30px;
+  border-radius: 10px;
+}
+
+.ad-1 {
+  color: hsl(300, 43%, 22%);
+  float: left;
+  padding-left: 80px;
+  display: inline-block;
+}
+.ad-2 {
+  color: hsl(303, 10%, 53%);
+  float: left;
+  clear: left;
+  padding-left: 80px;
+  display: inline-block;
+}
+
+.top-container {
+  height: 250px;
+  weight: 250px;
+  display: inline-block;
+  background-color: hsl(300, 43%, 22%);
+  position: absolute;
+  text-align: center;
+  line-height: 1.8;
+  top: 290px;
+  left: 85px;
+  border-radius: 10px;
+  padding: 15px 10px 0px 18px;
+}
+
+.middle-container {
+  height: 250px;
+  weight: 250px;
+  background-color: hsl(300, 43%, 22%);
+  position: absolute;
+  display: inline-block;
+  line-height: 1.8;
+  text-align: center;
+  left: 514px;
+  top: 315px;
+  border-radius: 10px;
+  padding: 15px 10px 0px 18px;
+}
+
+.bottom-container {
+  height: 250px;
+  weight: 250px;
+  background-color: hsl(300, 43%, 22%);
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+  line-height: 1.8;
+  left: 940px;
+  top: 350px;
+  border-radius: 10px;
+  padding: 15px 10px 0px 18px;
+}
+
+.colton-img {
+  border-radius: 100px;
+  float: left;
+}
+.irene-img {
+  border-radius: 100px;
+  float: left;
+}
+.anne-img {
+  border-radius: 100px;
+  float: left;
+}
+
+.code-skill-description {
+  clear: left;
+  text-align: left;
+  margin: 15px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 900px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  margin-top: 900px;
+}
